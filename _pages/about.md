@@ -7,37 +7,34 @@ redirect_from:
   - /about.html
 ---
 
+
+Je suis doctorant en Bioinformatique en derniere année à l'université de Lille. Ma thèse portent sur l'alignement de donnée virales provenant de technologie de séquencage de 3ime génération.
+
+
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Bioinformatic, Université de Lille, 2025 (expected)
+* M.S. in Bioinformatic, Université de Bordeaux, 2022
+* B.S. in Biology, Université de Bordeaux, 2020
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* 2022: PhD Student
+  * Université de Lille, [CRIStAL](https://www.cristal.univ-lille.fr/en/?force_lang=true)
+  * Supervisor: Mikael Salson & Camille Marchet
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+Internship
+------
+* 2022 (6 months): Research Assistant
+  * Université de Lille, [CRIStAL](https://www.cristal.univ-lille.fr/en/?force_lang=true)
+  * Benchmark of long read aligner
+  * Supervisor: Camille Marchet
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2021 (3 month): Research Assistant
+  * Université de Bordeaux, [LaBRI](https://www.labri.fr/en)
+  * Development of a toolbox for handling archaeological documents
+  * Supervisor: Marie Beurton-Aimar
   
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
 
 Publications
 ======
