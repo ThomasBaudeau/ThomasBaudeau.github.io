@@ -9,7 +9,7 @@ redirect_from:
 
 ---
 permalink: /
-title: "Bio / topics"
+title: "CV"
 author_profile: true
 redirect_from: 
   - /CV/
