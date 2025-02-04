@@ -7,9 +7,15 @@ redirect_from:
   - /about.html
 ---
 
+---
+permalink: /
+title: "Bio / topics"
+author_profile: true
+redirect_from: 
+  - /CV/
+  - /CV.html
+---
 
-A data-driven personal website
-======
 
 Getting started
 ======
