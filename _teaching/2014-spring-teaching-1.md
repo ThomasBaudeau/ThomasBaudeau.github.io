@@ -1,7 +1,7 @@
 ---
 title: "Web Technologie"
 collection: teaching
-type: "1st year Bs"
+type: "1st year B.S"
 permalink: /teaching/2014-spring-teaching-1
 venue: "Université de Lille, Informatic Department"
 date: 2023-01-01
