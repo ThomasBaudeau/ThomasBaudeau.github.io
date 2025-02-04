@@ -8,13 +8,13 @@ date: 2023-01-01
 location: "Lille, France"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+Practical and tutorial class on Php, JS and CSS.
 
-Heading 1
+<!-- Heading 1
 ======
 
 Heading 2
 ======
 
 Heading 3
-======
+====== -->
