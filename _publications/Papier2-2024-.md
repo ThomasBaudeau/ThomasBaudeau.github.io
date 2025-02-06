@@ -3,7 +3,7 @@ title: "Improved sub-genomic RNA prediction with the ARTIC protocol "
 collection: publications
 category: manuscripts
 permalink: /publication/Papier2-2024
-excerpt: ''
+excerpt: 'DOI: https://doi.org/10.1186/s13059-023-02972-3](https://doi.org/10.1186/s13059-023-02972-3)'
 date: 2024-09-21
 venue: 'Nucleic Acids Research'
 citation: 'Thomas Baudeau ,Kristoffer Sahlin. &quot;Improved sub-genomic RNA prediction with the ARTIC protocol; <i>Nucleic Acids Research</i>.'

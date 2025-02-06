@@ -3,7 +3,7 @@ title: "A survey of mapping algorithms in the long-reads era"
 collection: publications
 category: manuscripts
 permalink: /publication/Papier1-2023
-excerpt: 'doi [https://doi.org/10.1093/nar/gkae687](https://doi.org/10.1093/nar/gkae687)'
+excerpt: 'DOI: [https://doi.org/10.1093/nar/gkae687](https://doi.org/10.1093/nar/gkae687)'
 date: 2023-06-01
 venue: 'Genome Biology'
 #slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
