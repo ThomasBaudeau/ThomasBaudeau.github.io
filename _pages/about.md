@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 
-Je suis doctorant en Bioinformatique en derniere année à l'université de Lille. Ma thèse portent sur l'alignement de donnée virales provenant de technologie de séquencage de 3ime génération.
+I am a PhD student in Bioinformatics in my final year at the University of Lille. My thesis focuses on the alignment of viral data from 3rd generation sequencing technology.
 
 
 Education
@@ -54,7 +54,5 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+
 
