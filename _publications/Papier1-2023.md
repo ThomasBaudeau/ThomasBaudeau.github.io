@@ -6,8 +6,6 @@ permalink: /publication/Papier1-2023
 excerpt: ''
 date: 2023-06-01
 venue: 'Genome Biology'
-slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
 citation: 'Kristoffer Sahlin, Thomas Baudeau, Bastien Cazaux, Camille Marchet. (2023). &quot;A survey of mapping algorithms in the long-reads era.&quot; <i>Genome Biology</i>.'
 ---
 
