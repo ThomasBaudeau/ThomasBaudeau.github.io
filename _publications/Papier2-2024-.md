@@ -2,7 +2,7 @@
 title: "Improved sub-genomic RNA prediction with the ARTIC protocol "
 collection: publications
 category: manuscript
-permalink: /publication/Papier2-2024.md
+permalink: /publication/Papier2-2024
 excerpt: ''
 date: 2024-09-21
 venue: 'Nucleic Acids Research'
